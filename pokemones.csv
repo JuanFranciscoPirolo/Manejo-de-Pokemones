@@ -1,0 +1,152 @@
+N° Pokedex,Nombre,Tipo,Poder de Ataque,Poder de Defensa,Habilidades
+1,Bulbasaur,Planta/Veneno,49,49,Clorofila|*|Espesura
+2,Ivysaur,Planta/Veneno,62,63,Clorofila|*|Espesura
+3,Venusaur,Planta/Veneno,82,83,Clorofila|*|Espesura
+4,Charmander,Fuego,52,43,Mar llamas|*|Poder solar
+5,Charmeleon,Fuego,64,58,Mar llamas|*|Poder solar
+6,Charizard,Fuego/Volador,84,78,Mar llamas|*|Poder solar
+7,Squirtle,Agua,48,65,Torrente|*|Caparazón resistente
+8,Wartortle,Agua,63,80,Torrente|*|Caparazón resistente
+9,Blastoise,Agua,83,100,Torrente|*|Caparazón resistente
+10,Caterpie,Bicho,30,35,Polvo escudo|*|Enjambre
+11,Metapod,Bicho,20,55,Mudar
+12,Butterfree,Bicho/Volador,45,50,Ojo compuesto|*|Enjambre
+13,Weedle,Bicho/Veneno,35,30,Punto tóxico|*|Enjambre
+14,Kakuna,Bicho/Veneno,25,50,Mudar
+15,Beedrill,Bicho/Veneno,90,40,Rivalidad|*|Enjambre
+16,Pidgey,Normal/Volador,45,40,Keen Eye|*|Tangled Feet
+17,Pidgeotto,Normal/Volador,60,55,Keen Eye|*|Tangled Feet
+18,Pidgeot,Normal/Volador,80,75,Keen Eye|*|Tangled Feet
+19,Rattata,Normal,56,35,Run Away|*|Guts
+20,Raticate,Normal,81,60,Run Away|*|Guts
+21,Spearow,Normal/Volador,60,30,Keen Eye|*|Sniper
+22,Fearow,Normal/Volador,90,65,Keen Eye|*|Sniper
+23,Ekans,Veneno,60,44,Muda piel|*|Intimidación
+24,Arbok,Veneno,85,69,Muda piel|*|Intimidación
+25,Pikachu,Eléctrico,55,40,Electricidad estática|*|Sacudida
+26,Raichu,Eléctrico,90,55,Electricidad estática|*|Sacudida
+27,Sandshrew,Tierra,75,85,Arena movediza|*|Velo arena
+28,Sandslash,Tierra,100,110,Arena movediza|*|Velo arena
+29,Nidoran?,Veneno,47,52,Velo polvo|*|Rivalidad
+30,Nidorina,Veneno,62,67,Velo polvo|*|Rivalidad
+31,Nidoqueen,Veneno/Tierra,92,87,Velo arena|*|Rivalidad
+32,Nidoran?,Veneno,57,40,Velo polvo|*|Rivalidad
+33,Nidorino,Veneno,72,57,Velo polvo|*|Rivalidad
+34,Nidoking,Veneno/Tierra,102,77,Velo arena|*|Rivalidad
+35,Clefairy,Hada,45,48,Muro mágico|*|Gran encanto
+36,Clefable,Hada,70,73,Muro mágico|*|Gran encanto
+37,Vulpix,Fuego,41,40,Mar llamas|*|Sequía
+38,Ninetales,Fuego,76,75,Mar llamas|*|Sequía
+39,Jigglypuff,Normal/Hada,45,20,Gran encanto|*|Cura cuerpo
+40,Wigglytuff,Normal/Hada,70,45,Gran encanto|*|Cura cuerpo
+41,Zubat,Veneno/Volador,45,35,Levitación
+42,Golbat,Veneno/Volador,80,70,Levitación
+43,Oddish,Planta/Veneno,50,55,Clorofila|*|Clorofila
+44,Gloom,Planta/Veneno,65,70,Clorofila|*|Clorofila
+45,Vileplume,Planta/Veneno,80,85,Clorofila|*|Clorofila
+46,Paras,Bicho/Planta,70,55,Efecto espora|*|Poder solar
+47,Parasect,Bicho/Planta,95,80,Efecto espora|*|Poder solar
+48,Venonat,Bicho/Veneno,55,50,Compuesto de ojos|*|Tintín
+49,Venomoth,Bicho/Veneno,65,60,Compuesto de ojos|*|Tintín
+50,Diglett,Tierra,55,25,Robustez|*|Arena movediza
+51,Dugtrio,Tierra,80,50,Robustez|*|Arena movediza
+52,Meowth,Normal,45,35,Recogida|*|Flexibilidad
+53,Persian,Normal,70,60,Flexibilidad|*|Tumbos
+54,Psyduck,Agua,52,48,Despiste|*|Torrente
+55,Golduck,Agua,82,78,Despiste|*|Torrente
+56,Mankey,Lucha,80,35,Fuga|*|Irascible
+57,Primeape,Lucha,105,60,Fuga|*|Irascible
+58,Growlithe,Fuego,70,45,Intimidación|*|Armadura ignífuga
+59,Arcanine,Fuego,110,80,Intimidación|*|Armadura ignífuga
+60,Poliwag,Agua,50,40,Absorbe agua|*|Torrent
+61,Poliwhirl,Agua,65,65,Absorbe agua|*|Torrente
+62,Poliwrath,Agua/Lucha,85,95,Absorbe agua|*|Torrente
+63,Abra,Psíquico,20,15,Sincronía|*|Foco interno
+64,Kadabra,Psíquico,35,30,Sincronía|*|Foco interno
+65,Alakazam,Psíquico,50,45,Sincronía|*|Foco interno
+66,Machop,Lucha,80,50,Agallas|*|Indomable
+67,Machoke,Lucha,100,70,Agallas|*|Indomable
+68,Machamp,Lucha,130,80,Agallas|*|Indomable
+69,Bellsprout,Planta/Veneno,75,35,Clorofila|*|Allanamiento
+70,Weepinbell,Planta/Veneno,90,50,Clorofila|*|Allanamiento
+71,Victreebel,Planta/Veneno,105,65,Clorofila|*|Allanamiento
+72,Tentacool,Agua/Veneno,40,35,Cuerpo puro|*|Lodo líquido
+73,Tentacruel,Agua/Veneno,70,65,Cuerpo puro|*|Lodo líquido
+74,Geodude,Roca/Tierra,80,100,Roca sólida|*|Cabeza roca
+75,Graveler,Roca/Tierra,95,115,Roca sólida|*|Cabeza roca
+76,Golem,Roca/Tierra,120,130,Roca sólida|*|Cabeza roca
+77,Ponyta,Fuego,85,55,Fuga|*|Cuerpo llama
+78,Rapidash,Fuego,100,70,Fuga|*|Cuerpo llama
+79,Slowpoke,Agua/Psíquico,65,65,Insomnio|*|Nado rápido
+80,Slowbro,Agua/Psíquico,75,110,Insomnio|*|Nado rápido
+81,Magnemite,Eléctrico/Acero,35,70,Imán|*|Cabeza dura
+82,Magneton,Eléctrico/Acero,60,95,Imán|*|Cabeza dura
+83,Farfetchd,Normal/Volador,65,55,Foco interno|*|Súper guardián
+84,Doduo,Normal/Volador,85,45,Fuga|*|Cabeza roca
+85,Dodrio,Normal/Volador,110,70,Fuga|*|Cabeza roca
+86,Seel,Agua,45,55,Refugio|*|Hidratación
+87,Dewgong,Agua/Hielo,70,80,Refugio|*|Hidratación
+88,Grimer,Veneno,80,50,Viscosidad|*|Entrada tóxica
+89,Muk,Veneno,105,75,Viscosidad|*|Entrada tóxica
+90,Shellder,Agua,65,100,Concha gruesa|*|Caparazón
+91,Cloyster,Agua/Hielo,95,180,Concha gruesa|*|Caparazón
+92,Gastly,Fantasma/Veneno,35,30,Levitación|*|Ninguna
+93,Haunter,Fantasma/Veneno,50,45,Levitación|*|Ninguna
+94,Gengar,Fantasma/Veneno,65,60,Levitación|*|Ninguna
+95,Onix,Roca/Tierra,45,160,Roca sólida|*|Cabeza roca
+96,Drowzee,Psíquico,48,45,Insomnio|*|Foco interno
+97,Hypno,Psíquico,73,70,Insomnio|*|Foco interno
+98,Krabby,Agua,105,90,Casco rudo|*|Ninguna
+99,Kingler,Agua,130,115,Casco rudo|*|Ninguna
+100,Voltorb,Eléctrico,55,50,Levitación|*|Ninguna
+101,Electrode,Eléctrico,80,70,Levitación|*|Ninguna
+102,Exeggcute,Planta/Psíquico,40,80,Clorofila|*|Cosecha
+103,Exeggutor,Planta/Psíquico,95,85,Clorofila|*|Cosecha
+104,Cubone,Tierra,50,95,Cabeza roca|*|Armadura batalla
+105,Marowak,Tierra,60,110,Cabeza roca|*|Armadura batalla
+106,Hitmonlee,Lucha,120,53,Flexibilidad|*|Indomable
+107,Hitmonchan,Lucha,105,79,Fuga|*|Puño férreo
+108,Lickitung,Normal,55,75,Clorofila|*|Cura limo
+109,Koffing,Veneno,65,95,Levitación|*|Ninguna
+110,Weezing,Veneno,90,120,Levitación|*|Ninguna
+111,Rhyhorn,Tierra/Roca,85,95,Cabeza roca|*|Pararrayos
+112,Rhydon,Tierra/Roca,130,120,Cabeza roca|*|Pararrayos
+113,Chansey,Normal,5,5,Naturalmente curioso|*|Cura natural
+114,Tangela,Planta,55,115,Clorofila|*|Regeneración
+115,Kangaskhan,Normal,95,80,Intimidación|*|Madreselva
+116,Horsea,Agua,40,70,Nado rápido|*|Humedad
+117,Seadra,Agua,65,95,Punto nudo|*|Humedad
+118,Goldeen,Agua,67,60,Nado rápido|*|Adaptable
+119,Seaking,Agua,92,65,Nado rápido|*|Adaptable
+120,Staryu,Agua,45,55,Iluminación|*|Cura natural
+121,Starmie,Agua/Psíquico,75,85,Iluminación|*|Cura natural
+122,Mr. Mime,Psíquico/Hada,45,65,Francotirador|*|Foco interno
+123,Scyther,Bicho/Volador,110,80,Ojo compuesto|*|Experto
+124,Jynx,Hielo/Psíquico,50,35,Análisis|*|Punto hielo
+125,Electabuzz,Eléctrico,83,57,Energía pura|*|Cromolente
+126,Magmar,Fuego,95,57,Cuerpo llama|*|Ninguna
+127,Pinsir,Bicho,125,100,Hiperacumulación|*|Ninguna
+128,Tauros,Normal,100,95,Intimidación|*|Encadenado
+129,Magikarp,Agua,10,55,Impulso|*|Ninguna
+130,Gyarados,Agua/Volador,125,79,Intimidación|*|Megaescamas
+131,Lapras,Agua/Hielo,85,80,Cuerpo puro|*|Absorbeagua
+132,Ditto,Normal,48,48,Impostor|*|Ninguna
+133,Eevee,Normal,55,50,Adaptabilidad|*|Anticipación
+134,Vaporeon,Agua,110,95,Absorbeagua|*|Humedad
+135,Jolteon,Eléctrico,65,60,Voltaje cambio|*|Punto trueno
+136,Flareon,Fuego,130,60,Cuerpo llama|*|Intimidación
+137,Porygon,Normal,60,70,Rastro|*|Descarga
+138,Omanyte,Roca/Agua,40,100,Cabeza roca|*|Cura lluvia
+139,Omastar,Roca/Agua,60,125,Cabeza roca|*|Cura lluvia
+140,Kabuto,Roca/Agua,80,90,Cabeza roca|*|Armadura batalla
+141,Kabutops,Roca/Agua,115,105,Cabeza roca|*|Armadura batalla
+142,Aerodactyl,Roca/Volador,105,65,Cabeza roca|*|Presión
+143,Snorlax,Normal,110,65,Inmunidad|*|Aclimatación
+144,Articuno,Hielo/Volador,85,100,Presión|*|Ninguna
+145,Zapdos,Eléctrico/Volador,90,85,Presión|*|Experto
+146,Moltres,Fuego/Volador,100,90,Presión|*|Ninguna
+147,Dratini,Dragón,64,45,Enjambre|*|Cambio color
+148,Dragonair,Dragón,84,65,Enjambre|*|Cambio color
+149,Dragonite,Dragón/Volador,134,95,Enjambre|*|Cambio color
+150,Mewtwo,Psíquico,110,90,Presión|*|Ninguna
+151,Mew,Psíquico,100,100,Sincronía|*|Ninguna

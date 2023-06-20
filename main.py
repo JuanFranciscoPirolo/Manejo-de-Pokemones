@@ -1,0 +1,2 @@
+from imprimir_menu_principal import mostrar_menu_principal
+mostrar_menu_principal()
